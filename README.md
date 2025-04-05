@@ -1,6 +1,6 @@
 # MicrosoftTranslator
 
-A simple and easy-to-use translation library powered by Microsoft Translator.
+Yet another library for translation~
 
 ---
 

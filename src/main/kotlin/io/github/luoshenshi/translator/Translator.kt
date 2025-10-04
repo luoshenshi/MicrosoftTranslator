@@ -82,7 +82,7 @@ class Translator {
     }
 
     private fun getTimestamp(): String {
-        val timestamp = System.currentTimeMillis() + 5000 // Assuming `f503d` is 5000ms
+        val timestamp = System.currentTimeMillis() + 5000
         val dateFormat = SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss", Locale.US).apply {
             timeZone = TimeZone.getTimeZone("GMT")
         }
